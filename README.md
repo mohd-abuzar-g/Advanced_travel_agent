@@ -11,12 +11,15 @@ Designed as a modern, production-ready AI application, it ensures fast, accurate
 - Supports travel styles: **Balanced, Luxury, Budget, Adventure**  
 - Integrates weather, visa rules, and local tips  
 - Uses **OpenRouter LLM models** for AI reasoning  
- 🌍 Real-Time Search
+
+🌍 Real-Time Search
 - Integrates **Serper.dev** for fetching live travel info  
 - Provides context on top attractions, weather forecasts, and visa requirements  
- 📅 Calendar Integration
+
+📅 Calendar Integration
 - Exports itinerary as **.ics file** for Google, Apple, or Outlook Calendar  
- 🖥️ Modern UI
+
+🖥️ Modern UI
 - Built with **Streamlit** for interactive, clean user experience  
 - Sidebar inputs for arrival date, travel style, and search mode  
 - Multi-chunk itinerary generation for flexible planning  
